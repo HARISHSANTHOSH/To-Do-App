@@ -56,7 +56,7 @@ for data in stainless\_steel\_data:
   print(data)
 
 **Example Output:**  
-```python{  
+```json{  
     'datasheet\_name': 'MIDALLOY MASTERCOR™ E312T1-1/4 AP Flux-Cored Wire',  
     'file\_name': 'MASTERCOR\_sup\_™\_\_sup\_ 312T1-1\_4AP Data Sheet \- Sheet1',  
     'datasheet\_id': 11,  
